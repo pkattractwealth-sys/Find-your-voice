@@ -1,2 +1,2 @@
 # Find-your-voice
-Help find your bpice
+Help find your voice
